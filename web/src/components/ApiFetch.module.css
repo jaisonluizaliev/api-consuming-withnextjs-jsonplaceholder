@@ -1,0 +1,31 @@
+.card {
+  
+  display: grid;
+  grid-template-columns: 49.8% 49.8%;
+}
+
+
+.cardChildren {
+  margin: 1rem;
+  border: 1px solid #9313c5;
+  border-radius: 5px;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+
+.cardChildren img {
+  display: block;
+  width: 125px;
+  margin: auto;
+  border-radius: 50% ;
+}
+
+.cardChildren p {
+  text-transform: capitalize;
+  padding-top: .5rem;
+}
+
+.cardChildren p:last-child {
+  padding-bottom: .3rem;
+}
