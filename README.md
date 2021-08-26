@@ -8,11 +8,6 @@
 
 # used tecnologies
  Api
-- express
-- cors 
-- axios
-- nodemon
+- Json PlaceHolder Fake Api
  Web
-- html
-- javascript
-- css
+- Nextjs + Reactjs
