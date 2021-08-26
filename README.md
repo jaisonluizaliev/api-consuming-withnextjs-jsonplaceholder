@@ -7,7 +7,7 @@
 # was consuming api in fetch in the browser
 
 # used tecnologies
- Api
+## Api
 - Json PlaceHolder Fake Api
- Web
+## Web
 - Nextjs + Reactjs
